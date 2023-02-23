@@ -12,7 +12,7 @@
                 "hi",
                 "howdy"
             ],
-            "default": "hey",
+            "default": "howdy",
             "description": "Select a pre-made greeting, or enter your own"
         }
     },
