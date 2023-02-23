@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-echo "Activating feature 'hello'"
+echo "Activating feature 'hello jkuester'"
 
 GREETING=${GREETING:-undefined}
 echo "The provided greeting is: $GREETING"
